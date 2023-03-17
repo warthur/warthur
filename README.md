@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently at the Univeristy of Michigan as Lecturer IV and Chief Program Advisor for CS-LSA
+- 📫 How to reach me: drop by my office hours or send me an email. Office hours are usually listed here - https://eecs183.github.io/eecs183.org/officehours.html
+
 <!--
 **warthur/warthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
