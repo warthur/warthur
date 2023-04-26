@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently at the Univeristy of Michigan as Lecturer IV and Chief Program Advisor for CS-LSA
+- 🔭 I’m currently at the Univeristy of Michigan as Lecturer IV and Chief Program Advisor for CS-LSA and CS-Minor
 - 📫 How to reach me: drop by my office hours or send me an email. Office hours are usually listed here - https://eecs183.github.io/eecs183.org/officehours.html
 
 <!--
